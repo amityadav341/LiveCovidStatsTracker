@@ -1,0 +1,23 @@
+.title{
+    font-size: 200%;
+    margin: 10%;
+   
+ 
+}
+.data{
+    font-size: 250%;
+    
+    margin: 10%;
+}
+.card{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(4, 6, 37);
+    text-align: center;
+    margin: 10%;
+    box-shadow: 5px 5px 5px 5px blueviolet;
+   
+}
+.main{
+    align-content: center;
+}

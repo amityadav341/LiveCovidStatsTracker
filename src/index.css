@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+*{
+  color: rgb(25, 233, 233);
+}
+.footer{
+ background-color: black;
+ margin: auto;
+ text-align: center;
+}
+p{
+  font-size: 350%;
+  padding: 20px;
+}
