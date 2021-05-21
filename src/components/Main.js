@@ -24,7 +24,7 @@ const Main=()=> {
 
   return (
     <>
-    <h1 style={{textAlign:"center"}}>COVID-19 STATS TRACKER</h1>
+    <h1 style={{textAlign:"center",fontSize:"350%"}}><span className="badge rounded-pill bg-danger">LIVE</span> COVID-19 STATS TRACKER</h1>
     <div  className="container">
             <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-1">
                         <div className="col-lg-4">
