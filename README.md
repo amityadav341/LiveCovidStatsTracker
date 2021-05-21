@@ -1,5 +1,5 @@
 <h1>LiveCovidStatsTracker</h1> You can check live by clicking on live:- 
-<a hreaf="https://amityadav341.github.io/LiveCovidStatsTracker/">Live</a>
+<a href="https://amityadav341.github.io/LiveCovidStatsTracker/">Live</a><br>
 ## Available Scripts
 
 In the project directory, you can run:
